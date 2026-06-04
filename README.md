@@ -1,4 +1,4 @@
-<h1 align="center">★ ᴋᴀʟɪᴍᴇᴅᴀ ★</h1>
+<h1 align="center">🗙 ᴋᴀʟɪᴍᴇᴅᴀ 🗙</h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/software%20dev-653FC2?style=for-the-badge">
@@ -10,7 +10,7 @@
     <i>Podrán cortar todas las flores, pero nunca terminarán con la primavera.</i>
 </p>
 
-<h2 align="center">❦ ᴀʟʙᴜᴍꜱ ꜰᴀᴠᴏʀɪᴛᴏꜱ ❦</h2>
+<h2 align="center">🗙 ᴀʟʙᴜᴍꜱ ꜰᴀᴠᴏʀɪᴛᴏꜱ 🗙</h2>
 
 <p align="center">
     <a href="https://tidal.com/album/418072881/u"><img src="assets/mawiza.jpg" width="166" alt="Mawiza - Kollong"></a>
