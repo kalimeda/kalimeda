@@ -1,4 +1,13 @@
-## Hi there 👋
+## 💿 Albums Favoritos
+
+<p>
+    <a href="https://tidal.com/album/418072881/u"><img src="assets/mawiza.jpg" width="166" alt="Mawiza - Kollong"></a>
+    <a href="https://tidal.com/album/68571005/u"><img src="assets/gojira.jpg" width="166" alt="Gojira - Magma"></a>
+    <a href="https://tidal.com/album/66766283/u"><img src="assets/power.jpg" width="166" alt="Power Trip - Nightmare Logic"></a>
+    <a href="https://tidal.com/album/54368194/u"><img src="assets/agonist.jpg" width="166" alt="The Agonist - Eye of Providence"></a>
+    <a href="https://tidal.com/album/51979059/u"><img src="assets/gates.jpg" width="166" alt="At The Gates - At War with Reality"></a>
+</p>
+
 
 <!--
 **kalimeda/kalimeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
