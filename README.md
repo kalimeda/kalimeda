@@ -40,6 +40,17 @@
 <h2 align="center">🗙 ᴀʟʙᴜᴍꜱ ꜰᴀᴠᴏʀɪᴛᴏꜱ 🗙</h2>
 
 <p align="center">
+    La música es la mayor de mis pasiones. Es una de las razones por las cuales soy quien soy.
+    Siempre me sorprende la forma en la que un muro de sonido puede expresar sentimientos tan
+    profundos, despertar empatía e incluso solidaridad; como algunos artistas aprovechan su
+    plataforma para denunciar injusticias y tomar partido.
+</p>
+
+<p align="center">
+    Estos son algunos de los álbumes que más me han marcado.
+</p>
+
+<p align="center">
     <a href="https://tidal.com/album/418072881/u"><img src="assets/mawiza.jpg" width="166" alt="Mawiza - Kollong"></a>
     <a href="https://tidal.com/album/68571005/u"><img src="assets/gojira.jpg" width="166" alt="Gojira - Magma"></a>
     <a href="https://tidal.com/album/66766283/u"><img src="assets/power.jpg" width="166" alt="Power Trip - Nightmare Logic"></a>
