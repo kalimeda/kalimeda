@@ -1,4 +1,4 @@
-## 💿 Albums Favoritos
+## ❦ ᴀʟʙᴜᴍꜱ ꜰᴀᴠᴏʀɪᴛᴏꜱ
 
 <p>
     <a href="https://tidal.com/album/418072881/u"><img src="assets/mawiza.jpg" width="166" alt="Mawiza - Kollong"></a>
