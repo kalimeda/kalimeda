@@ -1,3 +1,15 @@
+<h1 align="center">★ ᴋᴀʟɪᴍᴇᴅᴀ ★</h1>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/software%20dev-653FC2?style=for-the-badge">
+    <img src="https://img.shields.io/badge/rep.%20estudiantil-7A38B0?style=for-the-badge">
+    <img src="https://img.shields.io/badge/JJCC-9F2B68?style=for-the-badge">
+</p>
+
+<p align="center">
+    <i>Podrán cortar todas las flores, pero nunca terminarán con la primavera.</i>
+</p>
+
 ## ❦ ᴀʟʙᴜᴍꜱ ꜰᴀᴠᴏʀɪᴛᴏꜱ
 
 <p>
@@ -7,19 +19,3 @@
     <a href="https://tidal.com/album/54368194/u"><img src="assets/agonist.jpg" width="166" alt="The Agonist - Eye of Providence"></a>
     <a href="https://tidal.com/album/51979059/u"><img src="assets/gates.jpg" width="166" alt="At The Gates - At War with Reality"></a>
 </p>
-
-
-<!--
-**kalimeda/kalimeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
