@@ -10,9 +10,9 @@
     <i>Podrán cortar todas las flores, pero nunca terminarán con la primavera.</i>
 </p>
 
-## ❦ ᴀʟʙᴜᴍꜱ ꜰᴀᴠᴏʀɪᴛᴏꜱ
+<h3 align="center">❦ ᴀʟʙᴜᴍꜱ ꜰᴀᴠᴏʀɪᴛᴏꜱ ❦</h3>
 
-<p>
+<p align="center">
     <a href="https://tidal.com/album/418072881/u"><img src="assets/mawiza.jpg" width="166" alt="Mawiza - Kollong"></a>
     <a href="https://tidal.com/album/68571005/u"><img src="assets/gojira.jpg" width="166" alt="Gojira - Magma"></a>
     <a href="https://tidal.com/album/66766283/u"><img src="assets/power.jpg" width="166" alt="Power Trip - Nightmare Logic"></a>
