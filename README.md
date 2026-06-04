@@ -10,7 +10,7 @@
     <i>Podrán cortar todas las flores, pero nunca terminarán con la primavera.</i>
 </p>
 
-<h3 align="center">❦ ᴀʟʙᴜᴍꜱ ꜰᴀᴠᴏʀɪᴛᴏꜱ ❦</h3>
+<h2 align="center">❦ ᴀʟʙᴜᴍꜱ ꜰᴀᴠᴏʀɪᴛᴏꜱ ❦</h2>
 
 <p align="center">
     <a href="https://tidal.com/album/418072881/u"><img src="assets/mawiza.jpg" width="166" alt="Mawiza - Kollong"></a>
