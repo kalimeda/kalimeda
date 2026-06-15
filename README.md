@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    ¡Hola! Soy Kali, estudiante de informática con afinidad por el desarrollo de software.
+    ¡Hola! Soy V Riquelme, estudiante de informática con afinidad por el desarrollo de software.
     Tengo la convicción de que la tecnología es una herramienta con un enorme potencial
     (<i>aún por desarrollar</i>) para fortalecer nuestras comunidades e impulsar cambios significativos.
     Me interesa el software libre y el conocimiento entendido como una fuerza social.
