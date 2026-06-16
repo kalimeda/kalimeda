@@ -7,10 +7,9 @@
 </p>
 
 <p align="center">
-    ¡Hola! Soy Vi. Riquelme, estudiante de informática con afinidad por el desarrollo de software.
-    Tengo la convicción de que la tecnología es una herramienta con un enorme potencial
-    (<i>aún por desarrollar</i>) para fortalecer nuestras comunidades e impulsar cambios significativos.
-    Me interesa el software libre y el conocimiento entendido como una fuerza social.
+    Hola, soy Vi. Riquelme, estudiante de informática afín al desarrollo de software.
+    Tengo la convicción de que la tecnología debe servir para elevar a las comunidades
+    e impulsar transformaciones profundas, y creo en el software libre, abierto y accesible.
 </p>
 
 <p align="center">
@@ -40,10 +39,9 @@
 <h2 align="center">🗙 ᴀʟʙᴜᴍꜱ ꜰᴀᴠᴏʀɪᴛᴏꜱ 🗙</h2>
 
 <p align="center">
-    La música es la mayor de mis pasiones. Es una de las razones por las cuales soy quien soy.
-    Siempre me sorprende la forma en la que un muro de sonido puede expresar sentimientos tan
-    profundos, despertar empatía e incluso solidaridad; como algunos artistas aprovechan su
-    plataforma para denunciar injusticias y tomar partido.
+    Amo profundamente la música. Siempre me sorprende la forma en que un muro de sonido puede
+    transmitir emociones profundas y despertar empatía, y admiro a aquellos que usan su arte
+    para alzar la voz frente a la injusticia. Llevo siempre conmigo una pieza de su arte.
 </p>
 
 <p align="center">
