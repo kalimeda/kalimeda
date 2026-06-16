@@ -1,4 +1,4 @@
-<h1 align="center">🗙 ᴋᴀʟɪᴍᴇᴅᴀ 🗙</h1>
+<h1 align="center">× ᴋᴀʟɪᴍᴇᴅᴀ ×</h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/software%20dev-653FC2?style=for-the-badge">
@@ -16,7 +16,7 @@
     <i>Podrán cortar todas las flores, pero nunca terminarán con la primavera.</i>
 </p>
 
-<h2 align="center">🗙 ᴛᴇᴄɴᴏʟᴏɢɪ́ᴀꜱ 🗙</h2>
+<h2 align="center">× ᴛᴇᴄɴᴏʟᴏɢɪ́ᴀꜱ ×</h2>
 
 <p align="center">
     <img alt="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">&nbsp;&nbsp;
@@ -36,7 +36,7 @@
     <img alt="Maven" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">&nbsp;&nbsp;
 </p>
 
-<h2 align="center">🗙 ᴀʟʙᴜᴍꜱ ꜰᴀᴠᴏʀɪᴛᴏꜱ 🗙</h2>
+<h2 align="center">× ᴀʟʙᴜᴍꜱ ꜰᴀᴠᴏʀɪᴛᴏꜱ ×</h2>
 
 <p align="center">
     Amo profundamente la música. Siempre me sorprende la forma en que un muro de sonido puede
